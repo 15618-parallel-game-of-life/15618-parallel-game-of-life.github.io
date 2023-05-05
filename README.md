@@ -2,6 +2,16 @@
 
 Mingyuan Ding (mingyuad), Li Shi (lishi)
 
+## Project Final Report
+
+[Final Report Page](./Final.md)
+
+[Final Report PDF](./Final.pdf)
+
+### Summary
+
+We implement a parallel simulator of Conway’s Game of Life in OpenMP and CUDA and reach nearly linear speedup in updating cell states. Meanwhile, we implement an AI that learns from self play and genetic algorithms so that it can play our game of life battle.
+
 ## Project Milestone
 
 [Milestone Report](./Milestone.pdf)
